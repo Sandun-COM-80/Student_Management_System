@@ -1,5 +1,3 @@
-
-
 <?php 
 
 include "layout/header.php";
@@ -14,8 +12,6 @@ if(isset($_GET['type'])){
   }
 }
 
-
 include "layout/footer.php";
-
 
  ?>
